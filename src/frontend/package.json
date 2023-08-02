@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "This is For frontend of the IPL_DASHBOARD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohit6294/IPL_Dashboard_Full_Stack_Application.git#master"
+  },
+  "author": "Mohit Bhadani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohit6294/IPL_Dashboard_Full_Stack_Application/issues"
+  },
+  "homepage": "https://github.com/Mohit6294/IPL_Dashboard_Full_Stack_Application/tree/master#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
